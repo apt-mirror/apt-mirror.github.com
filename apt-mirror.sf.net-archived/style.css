@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+ul, ol {
+    margin-top: 2px;
+}
+
+pre {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 20px;
+    padding-left: 4px;
+    border-left: solid 2px;
+    border-color: gray;
+    font-family: Lucida Console;
+    font-size: 12px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 3px;
+}
+
+.border {
+    border: 1px;
+    border-style: solid;
+    border-color: gray;
+}
